@@ -28,4 +28,9 @@ f
 g
 this is for trouble
 chancge a problem
+<<<<<<< Updated upstream
 fix
+=======
+123456
+
+>>>>>>> Stashed changes
